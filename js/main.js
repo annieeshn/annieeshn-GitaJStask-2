@@ -9,11 +9,11 @@ var products = [
     },
     {   
         ID: 2, 
-        productName: "HL Mountain Frame - Silver, 41", 
-        productNumber: "FR-M945-42", 
-        color: "Silver", 
-        listPrice: 1364.50, 
-        modifiedDate: "2022-08-16" 
+        productName: "HL Road Frame - Red, 58", 
+        productNumber: "FR-R92R-58", 
+        color: "Red", 
+        listPrice: 1431.50, 
+        modifiedDate: "2021-08-06" 
     },
     { 
         ID: 3, 
@@ -21,14 +21,14 @@ var products = [
         productNumber: "FR-R92R-62", 
         color: "Red", 
         listPrice: 1431.50, 
-        modifiedDate: "2022-02-13" },
+        modifiedDate: "2021-11-09" },
     { 
         ID: 4,
-        productName: "HL Mountain Frame - Black, 42", 
-        productNumber: "FR-R94B-42", 
-        color: "Black", 
-        listPrice: 1349.60, 
-        modifiedDate: "2021-10-30" 
+        productName: "HL Road Frame - Red, 44", 
+        productNumber: "FR-R92R-44", 
+        color: "Red", 
+        listPrice: 1431.50, 
+        modifiedDate: "2021-12-12" 
     }
 ];
 
